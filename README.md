@@ -87,7 +87,7 @@ font-size: 50px;}
                 class="one">PAWSOME</p>birthday!
                <br>
                     <br>
-               Sincerly, Dakota </h1>
+               Sincerely, Dakota </h1>
            
            <div class="gallery2">
                <img src="https://t4.ftcdn.net/jpg/06/27/19/65/360_F_627196509_5djLzegVzbj49jQVL1mKwiHkLcixZzvZ.jpg" alt="helpjjkh" width="320" height="250">
