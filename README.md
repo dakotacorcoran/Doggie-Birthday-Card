@@ -75,7 +75,7 @@ font-size: 50px;}
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>Dog Birthda Card- Inside</title>
+        <title>Dog Birthday Card- Inside</title>
         <link rel="stylesheet" href="styles.css" />
         <script src="script.js"></script>
     </head>
